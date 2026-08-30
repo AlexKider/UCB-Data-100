@@ -1,1 +1,5 @@
 *.db
+
+# PostgreSQL local database cluster
+postgres_data/
+postgres.log
